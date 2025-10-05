@@ -35,4 +35,4 @@ To get a local copy up and running, follow these simple steps.
 
 ## Live Demo
 
-[Link to your live demo here]
+Live demo: [Tic-Tac-Toe React Game](https://qs3h.github.io/Tic-Tac-Toe-React-Game/)
