@@ -2,6 +2,10 @@
 
 A classic Tic-Tac-Toe game built with React and Vite, featuring smooth animations with Framer Motion for an enhanced user experience.
 
+## Live Demo
+
+Live demo: [Tic-Tac-Toe React Game](https://qs3h.github.io/Tic-Tac-Toe-React-Game/)
+
 ## Features
 
 - **Interactive Gameplay**: A fully functional Tic-Tac-Toe board.
@@ -33,6 +37,3 @@ To get a local copy up and running, follow these simple steps.
    npm run dev
    ```
 
-## Live Demo
-
-Live demo: [Tic-Tac-Toe React Game](https://qs3h.github.io/Tic-Tac-Toe-React-Game/)
