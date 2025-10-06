@@ -4,7 +4,7 @@ A classic Tic-Tac-Toe game built with React and Vite, featuring smooth animation
 
 ## Live Demo
 
-Live demo: [Tic-Tac-Toe React Game](https://qs3h.github.io/React-Tic-Tac-Toe-Game/)
+Live Game: [Tic-Tac-Toe React Game](https://qs3h.github.io/React-Tic-Tac-Toe-Game/)
 
 ## Features
 
